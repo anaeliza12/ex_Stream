@@ -1,1 +1,1 @@
-# ex_Stream
+# Exercício de Streams | Pipeline
